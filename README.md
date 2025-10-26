@@ -2,5 +2,4 @@
 Открывать пдф файлы можно через бесплатную программу SumatraPDF или любую другую.
 
 Google Disk:   https://clck.ru/3PxwBs  
-Yandex Disk:   https://clck.ru/3PxwQC
 
